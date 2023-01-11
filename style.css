@@ -66,6 +66,9 @@ li {
         display: flex;
         flex-direction: column;
     }
+    nav {
+        height: 100%;
+    }
     ul {
         flex-wrap: wrap;
         justify-items: center;
